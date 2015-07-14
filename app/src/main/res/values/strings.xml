@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ThirdApplication</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Names for tabs -->
+    <string name="universalPlayerLabel">Universal Player</string>
+    <string name="takePhotoLabel">Take photo/video</string>
+
+    <!-- two buttons -->
+    <string name="takePicture">Take picture</string>
+    <string name="takeVideo">Record video</string>
+
+    <!-- button to capture image -->
+    <string name="picture">Capture</string>
+
+    <!-- buttons to record video -->
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+
+    <!-- button to save and discard -->
+    <string name="save">Save</string>
+    <string name="discard">Discard</string>
+
+</resources>
